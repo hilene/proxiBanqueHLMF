@@ -1,0 +1,7 @@
+org.formation.proxibanqueV3.bean
+org.formation.proxibanqueV3.entity
+org.formation.proxibanqueV3.main
+org.formation.proxibanqueV3.persistance
+org.formation.proxibanqueV3.service
+org.formation.proxibanqueV3.servlets
+org.formation.proxibanqueV3.util
